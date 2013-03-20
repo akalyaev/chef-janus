@@ -2,19 +2,22 @@
 
 # DESCRIPTION
 
-Installs [Janus](https://github.com/carlhuda/janus) from github using the bootstrap method. Currently only for Ubuntu console.
+Installs [Janus](https://github.com/carlhuda/janus) from github using the bootstrap method. 
 
 # REQUIREMENTS
 
 ## Chef
 
-Tested on 10.16
+Tested on 10.16.
 
 ## Platform
 
 The following platforms have been test with this cookbook:
 
-* ubuntu (10.04/10.10/11.04) 
+* ubuntu (10.04/11.04/12.04) 
+* debian (6.0)
+
+Please [report](https://github.com/pwelch/chef-janus/issues) any additional platforms so they can be added.
 
 ## Attributes
 
